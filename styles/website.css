@@ -1,0 +1,45 @@
+.markdown-section h1 {
+    text-align: center;
+}
+.markdown-section h2 {
+	font-size: 1.95em;
+    border-bottom: 2px solid #15ac8e
+   
+}
+
+.markdown-section h3 {
+    border-left: 5px solid #15ac8e;
+    padding-left: 12px;
+}
+
+.code-wrapper pre {
+	border-radius: 8px;
+	background-color:#183055;
+	color:white;
+  
+}
+
+blockquote {
+	
+}
+
+blockquote p {
+	background-color:#rad;
+	margin-top:18px !important;
+	
+}
+
+.markdown-section code {
+    margin: 0;
+    font-size: 1.05em;
+	color:#eb7f36;
+	
+}
+.markdown-section blockquote {
+    margin: 0;
+    margin-bottom: 7.85em;
+    padding: 0px 18px;
+    color: #858585;
+    border-left: 5px solid #15ac8e;
+
+}
